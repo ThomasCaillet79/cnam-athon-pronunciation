@@ -7,4 +7,5 @@ seaborn==0.11.0
 numpy==1.19.5
 ipympl==0.5.8
 ipywidgets==7.5.0
-
+requests_html==0.10.0
+ipython==7.12.0
